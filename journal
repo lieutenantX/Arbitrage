@@ -8,7 +8,7 @@ Première version test de l'application. Test standard, test infini et test pers
 Enregistrement des scores des questionnaires et possibilité de consulter les statistiques totales.
 Ajout du profil de l'utilisateur
 Ajout de la page "informations et données" pour respecter le RGPD
-  Bugs :
+  Corrections :
 Correction du bug d'affichage du bouton "suivant" dans les questionnaires
 Correction de la mise à jour des questions
 
