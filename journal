@@ -35,3 +35,4 @@ Ajout de la possibilité de modifier l'adresse de la base de données des questi
     Corrections :
 Résolution du bug de photo de profile
 Correction du bug de démarrage du questionnaire avec questions sauvegardées dans l'appareil
+Modification de la méthode de signalement des questions
