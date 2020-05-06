@@ -31,4 +31,7 @@ Correction du bug de la photo de profile
 
                                 Version B 0.5 (à venir)
     Nouveautés :
-Je travaille encore dessus
+Ajout de la possibilité de modifier l'adresse de la base de données des questions sans faire de mise à jour de l'appli
+    Corrections :
+Résolution du bug de photo de profile
+Correction du bug de démarrage du questionnaire avec questions sauvegardées dans l'appareil
