@@ -29,10 +29,17 @@ Ajout du signalement d'erreures dans les questions
 Correction du bug de mise à jour de la base de questions
 Correction du bug de la photo de profile
 
-                                Version B 0.5 (à venir)
+                                Version B 0.5
     Nouveautés :
 Ajout de la possibilité de modifier l'adresse de la base de données des questions sans faire de mise à jour de l'appli
     Corrections :
 Résolution du bug de photo de profile
 Correction du bug de démarrage du questionnaire avec questions sauvegardées dans l'appareil
 Modification de la méthode de signalement des questions
+
+                                Version B 0.6 (à venir)
+    Nouveautés :
+
+    Corrections :
+Résolution du bug de mise à jour des questions
+Résolution du bug de niveau de QCM
